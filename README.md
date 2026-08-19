@@ -38,7 +38,7 @@ For this project, the problem was formulated as a binary classification task:
 
 The cleaned dataset used in this project is available on Kaggle:
 
-**Kaggle Dataset:** [CIC-IDS2017 Cleaned Dataset]((https://www.kaggle.com/code/huy47nguyennhat/data-cleaned-cicids2017/output))
+**Kaggle Dataset:** [CIC-IDS2017 Cleaned Dataset](https://www.kaggle.com/code/huy47nguyennhat/data-cleaned-cicids2017/output)
 
 
 ## Data Preprocessing
