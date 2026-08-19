@@ -36,6 +36,11 @@ For this project, the problem was formulated as a binary classification task:
 - `0` → Normal Traffic
 - `1` → Attack Traffic
 
+The cleaned dataset used in this project is available on Kaggle:
+
+**Kaggle Dataset:** [CIC-IDS2017 Cleaned Dataset]((https://www.kaggle.com/code/huy47nguyennhat/data-cleaned-cicids2017/output))
+
+
 ## Data Preprocessing
 
 The preprocessing pipeline includes:
